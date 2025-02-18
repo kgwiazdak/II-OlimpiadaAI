@@ -50,3 +50,9 @@ W razie pytań lub wątpliwości, prosimy o kontakt przez platformę Discord lub
 
 Życzymy powodzenia w rozwiązywaniu zadań!
 
+## Partnerzy instytucjonalni 
+
+<p align="center">
+  <img src="logo_mc.png" alt="Logo Ministerstwa Cyfryzacji" width="40%">
+  <img src="logo_wca.png" alt="Logo Wrocławskiego Centrum Akademickiego" width="40%">
+</p>
