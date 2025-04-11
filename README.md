@@ -1,9 +1,9 @@
 # II Olimpiada Sztucznej Inteligencji / 2nd Polish AI Olympiad
 <p align="center">
-  <img src="logo_oai.png" alt="LogoIIOAI" width="50%">
+  <img src="logo_oai.png" alt="LogoIIOAI" width="30%">
 </p>
 
-Witamy w repozytorium z zadaniami II Olimpiady Sztucznej Inteligencji. Olimpiada ta jest skierowana do uczniów w Polsce, zarówno ze szkół średnich jak i podstawowych, którzy są zainteresowani sztuczną inteligencją. Celem jest zwiększenie zainteresowania AI i wyłonienie składów reprezentacji na olimpiady międzynarodowe [IOAI](https://ioai-official.org/) w Pekinie (2-9 sierpnia 2025) i [IAIO](https://www.iaio-official.org/) w Lublanie (3-7 listopada 2025).
+Witamy w repozytorium z zadaniami II Olimpiady Sztucznej Inteligencji. Olimpiada ta jest skierowana do uczniów w Polsce, zarówno ze szkół średnich jak i podstawowych, którzy są zainteresowani sztuczną inteligencją. Celem jest zwiększenie zainteresowania AI i wyłonienie składów reprezentacji na olimpiady międzynarodowe [IOAI](https://ioai-official.org/) w Pekinie (2-9 sierpnia 2025) i [IAIO](https://www.iaio-official.org/) w Lublanie.
 
 ## Informacje ogólne
 **Strona główna:** [Olimpiada Sztucznej Inteligencji](https://oai.cs.uni.wroc.pl/edycje/ii-oai)
@@ -53,6 +53,8 @@ W razie pytań lub wątpliwości, prosimy o kontakt przez platformę Discord lub
 ## Partnerzy instytucjonalni 
 
 <p align="center">
-  <img src="logo_mc.png" alt="Logo Ministerstwa Cyfryzacji" width="40%">
-  <img src="logo_wca.png" alt="Logo Wrocławskiego Centrum Akademickiego" width="40%">
+  <a href="https://www.gov.pl/web/cyfryzacja" target="_blank">
+    <img src="logo_mc.png" alt="Logo Ministerstwa Cyfryzacji" height="80" style="margin-right: 40px;">
+  </a>
+  <img src="logo_wca.png" alt="Logo Wrocławskiego Centrum Akademickiego" height="80">
 </p>
